@@ -14,4 +14,6 @@ int main()
 	scanf("%d",&n);
 	while(getchar()!='\n');
 	if(n==1) start_server();
+	if(n==2) them_cauhoi();
+	
 } 
